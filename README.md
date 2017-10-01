@@ -1,6 +1,6 @@
 # The source for travelweft.io
 
-Pull requests are welcome for content issue or discussion of the vision and project.
+Pull requests are welcome for both content issues and discussion of the vision and project.
 
 ## License
 
