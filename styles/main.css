@@ -1,0 +1,59 @@
+body {
+  font-family: helvetica, sans-serif; 
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  background: linear-gradient(to top, white, #f5f5e9) fixed;
+}
+
+div#header {
+}
+
+div#logo {
+  width: 200px;
+  margin: auto;
+}
+
+div#logo img {
+  width: 100%;
+}
+
+div#content {
+  margin: auto;
+  width: 80%;
+}
+
+h1, h2, h3 {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  line-height: 3.2em;
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 3.2em;
+}
+
+p {
+  line-height: 1.6em;
+  font-size: 20px;
+  margin: 0 0 1.6em 0;
+  padding: 0;
+}
+
+div#footer {
+  margin: 30px 0;
+}
+
+div#license {
+  width: 400px;
+  tex-align: center;
+  font-size: 14px;
+  margin: auto;
+}
+div#license a:first-child {
+  display: block;
+  text-align: center;
+}
