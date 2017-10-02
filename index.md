@@ -56,6 +56,6 @@ Reviews and customer feedback have been almost totally taken over by third-parti
 
 ## Get Involved
 
-The vision for TravelWeft comes from almost 20 years of involvement with the travel and technology, and a grwoing dissilusionment with with state of travel tech. If these words strike a chord, please get in touch and and start collaborating in forging a better travel industry - for the future of travel service providers, travellers and the societies they impact.
+The vision for TravelWeft comes from almost 20 years of involvement with travel and technology, and a growing dissilusionment with state of travel tech. If these words strike a chord, please get in touch and and start collaborating in forging a better travel industry - for the future of travel service providers, travellers and the societies they impact.
 
-If you're working in technology and familiar with git, feel free to leave a pull request with changes/additions to the above, or topics for dicussion [here](https://github.com/travelweft/travelweft.io). Otherwise, email contact to follow shortly, but in the meantime you can ping me on twitter at [@shr](https://twitter.com/shr).
+If you're working in technology and familiar with git/github, feel free to make a pull request with changes/additions to the above, or create an issue with topics for dicussion [here](https://github.com/travelweft/travelweft.io). Otherwise, email contact to follow shortly, but in the meantime you can ping me on twitter at [@shr](https://twitter.com/shr).
