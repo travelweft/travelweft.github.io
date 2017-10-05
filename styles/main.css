@@ -16,6 +16,27 @@ div#logo img {
   width: 100%;
 }
 
+div#definition {
+  font-family: monospace;
+  font-size: 15px;
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+div#definition .term {
+  font-weight: bold;
+}
+
+div#definition .part-of-speech:before,
+div#definition .part-of-speech:after {
+  content: " ~ ";
+}
+
+div#definition .part-of-speech {
+  font-style: italic;
+}
+
 div#content {
   margin: auto;
   width: 80%;
