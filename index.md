@@ -4,7 +4,7 @@ title: TravelWeft - A new distributed, p2p platform for the travel industry
 ---
 # Because We Travel
 
-You travel. You research and book hotels. You figure out local transport. You visit attractions. You may take a tour. Or book a course. You engage with a place. You visit museums, see shows, chill in malls, dance the night away, or internailze the tranquility. You hope you get it right.
+You travel. You research and book hotels. You figure out local transport. You visit attractions. You may take a tour. Or book a course. You engage with a place. You visit museums, see shows, chill in malls, dance the night away, or internalize the tranquility. You hope you get it right.
 
 Travel is invigorating. Travel is exciting. And surprising. Travel is rewarding, on so many levels. Travel leaves us richer than we were before. Travel is transformative.
 
