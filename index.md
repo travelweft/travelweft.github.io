@@ -61,8 +61,6 @@ Most trips happen within a context, whether that be the tight schedule of a busi
 
 Reviews and customer feedback have been almost totally taken over by third-parties. Originally this was with intention of providing verifiable reviews hosted by a neutral party. But it is clear today that those noble aims have not been met. Instead review sites are plagued by fake reviews - since third-parties have proven poor at controlling these and perhaps their incentives are not correctly aligned to do so.  Additionally these neutral parties are almost all far from neutral, themselves being involved in marketing the products they host reviews for in order to earn commissions and fees. Furthermore, travel service providers have had the rights to their own reviews usurped - and as such they cannot make full use of the feedback they receive to market their product.
 
-## Get Involved
+### Support us!
 
-The vision for TravelWeft comes from almost 20 years of involvement with travel and technology, and a growing disillusionment with the state of travel tech. If these words strike a chord, please get in touch and and start collaborating in forging a better travel industry - for the future of travel service providers, travellers and the societies they impact.
-
-If you're working in technology and familiar with git/github, feel free to make a pull request with changes/additions to the above, or create an issue with topics for discussion [here](https://github.com/travelweft/travelweft.io). Otherwise, email contact to follow shortly, but in the meantime you can ping me on twitter at [@shr](https://twitter.com/shr).
+Interested in what we're doing? Then please consider [getting involved](/get-involved) or [providing support](/support).
