@@ -26,15 +26,17 @@
           </div>
         </div>
       </div>
-      <div id="header">
-        <div id="logo"><img src="/images/travel-weft-logo.svg"/></div>
-        <div id="definition">
-          <span class="term">Weft</span>
-          <span class="part-of-speech">noun</span>
-          <span class="meaning">the crosswise threads on a loom that are passed over and under the warp threads to make cloth</span>
-        </div>
-      </div>
       <div id="content">
+        {% if page.show-header %}
+        <div id="header">
+          <div id="logo"><img src="/images/travel-weft-logo.svg"/></div>
+          <div id="definition">
+            <span class="term">Weft</span>
+            <span class="part-of-speech">noun</span>
+            <span class="meaning">the crosswise threads on a loom that are passed over and under the warp threads to make cloth</span>
+          </div>
+        </div>
+        {% endif %}
         {{ content }}
       </div>
       <div id="footer">

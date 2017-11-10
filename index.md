@@ -1,6 +1,7 @@
 ---
 layout: main
 title: TravelWeft - A new distributed, p2p platform for the travel industry
+show-header: true
 ---
 # Because We Travel
 

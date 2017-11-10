@@ -79,7 +79,6 @@ div#main-nav .holder a:hover {
 }
 
 div#header {
-  padding-top: 60px;
 }
 
 div#logo {
@@ -114,6 +113,7 @@ div#definition .part-of-speech {
 
 div#content {
   margin: auto;
+  padding-top: 120px;
   width: 80%;
 }
 
