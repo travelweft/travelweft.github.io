@@ -18,10 +18,7 @@ div#main-nav .holder {
   margin: auto;
   background-color: rgba(255, 255, 255, 1);
   display: flex;
-  /* -webkit-box-shadow: 0 10px 6px -6px #ccc;
-  -moz-box-shadow: 0 10px 6px -6px #ccc;
-  box-shadow: 0 10px 6px -6px #ccc; */
-  position:relative;
+  position: relative;
 }
 
 div#main-nav .holder:before,
@@ -161,4 +158,32 @@ div#license {
 div#license a:first-child {
   display: block;
   text-align: center;
+}
+
+@media only screen and (max-width: 700px) {
+  div#main-nav {
+    position: static;
+  }
+  div#main-nav .holder {
+    width: 100%;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: column;
+    position:relative;
+  }
+  #iconic-logo {
+    margin: auto;
+  }
+  div#main-nav .holder .links {
+    flex-direction: column;
+  }
+  div#main-nav .holder .links a {
+    text-align: center;
+    border-top: 1px solid #e6e6e6;
+  }
+  div#content {
+    padding-top: 40px;
+    width: 90%;
+  }
 }
