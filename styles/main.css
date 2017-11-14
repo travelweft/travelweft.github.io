@@ -136,12 +136,12 @@ p {
   padding: 0;
 }
 
-#content a, #content a:visited {
+#content a, #content a:visited, #footer a, #footer a:visited {
   color: #06A;
   text-decoration: none;
 }
 
-#content a:hover {
+#content a:hover, #footer a:hover {
   text-decoration: underline;
 }
 
@@ -149,9 +149,23 @@ div#footer {
   margin: 30px 0;
 }
 
+div#footer div.social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 14px 0;
+}
+div#footer div.social span.twitter-logo {
+  display: inline-block;
+  width: 36px
+}
+div#footer div.social span.twitter-logo img {
+  width: 100%;
+}
+
 div#license {
   width: 400px;
-  tex-align: center;
+  text-align: center;
   font-size: 14px;
   margin: auto;
 }
